@@ -6,6 +6,8 @@ A Claude skill that translates professional judgment into the format the actual 
 
 **Part of**: [判断落地 · Where Judgment Lands](https://edanyang.github.io) — a growing protocol library at [edanyang.github.io](https://edanyang.github.io) · Section 05.
 
+**Origin story · 起源故事**: This skill grew out of one real failure — read the full backstory on [LinkedIn](https://www.linkedin.com/pulse/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA-skill%E8%AE%A9%E5%88%A4%E6%96%AD%E7%9C%9F%E7%9A%84%E8%90%BD%E5%9C%B0-edan-yang-gziec).
+
 ---
 
 ## 这个 skill 解决什么问题
